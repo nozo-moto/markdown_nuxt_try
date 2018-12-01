@@ -1,0 +1,16 @@
+{
+  "fileMap": {
+    "content/posts/json/2018-11-30-newpost.json": {
+      "title": "Test Title",
+      "created_at": "2018-11-30T00:00:00.000Z",
+      "dir": "content/posts/json",
+      "base": "2018-11-30-newpost.json",
+      "ext": ".json",
+      "sourceBase": "2018-11-30-newpost.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "content/posts/2018-11-30-newpost.md"
+  ]
+}

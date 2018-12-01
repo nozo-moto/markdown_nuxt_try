@@ -1,0 +1,11 @@
+{
+  "title": "Test Title",
+  "created_at": "2018-11-30T00:00:00.000Z",
+  "bodyContent": "# Test\n\n## Test2\n\nContent Sample",
+  "bodyHtml": "<h1>Test</h1>\n<h2>Test2</h2>\n<p>Content Sample</p>\n",
+  "dir": "content/posts/json",
+  "base": "2018-11-30-test.json",
+  "ext": ".json",
+  "sourceBase": "2018-11-30-test.md",
+  "sourceExt": ".md"
+}
